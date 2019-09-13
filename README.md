@@ -31,4 +31,4 @@ components: {
 ```
 
 
-[](https://github.com/aslanon/vue-formulize/blob/master/public/preview.png)
+![1](https://github.com/aslanon/vue-formulize/blob/master/public/preview.png)
