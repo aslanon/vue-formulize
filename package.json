@@ -1,9 +1,9 @@
 {
   "name": "vue-formulize",
   "author": "Onur Aslan aslanon.tr@gmail.com",
-  "version": "0.1.9",
+  "version": "0.1.9.1",
   "private": false,
-  "main": "src/components/VueFormulize.vue",
+  "main": "src/components/vue-formulize.vue",
   "license": "MIT",
   "keywords": [
     "vue",
