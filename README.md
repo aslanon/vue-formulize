@@ -31,5 +31,4 @@ components: {
 ```
 
 
-
-![1568375671648](/home/onur/.config/Typora/typora-user-images/1568375671648.png)
+[](https://github.com/aslanon/vue-formulize/blob/master/public/preview.png)
