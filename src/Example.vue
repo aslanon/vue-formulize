@@ -1,15 +1,15 @@
 <template>
   <div id="app">
-    <mycomponent :customElement="myElement" :error="{}"></mycomponent>
+    <vue-formulize :customElement="myElement" :error="{}"></vue-formulize>
   </div>
 </template>
 
 <script>
-import mycomponent from "@/components/mycomponent.vue";
+import VueFormulize from "@/components/vue-formulize.vue";
 export default {
   name: "app",
   components: {
-    mycomponent
+    VueFormulize
   },
   data() {
     return {
